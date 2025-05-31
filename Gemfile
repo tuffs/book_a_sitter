@@ -12,7 +12,6 @@ gem "stimulus-rails"
 gem "jbuilder"
 gem "bootsnap", require: false
 
-
 # Custom App Specific Gems
 gem "tailwindcss-ruby", "~> 4.1"
 gem "tailwindcss-rails", "~> 4.2"

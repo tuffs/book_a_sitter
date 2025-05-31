@@ -28,3 +28,9 @@ h1 {
   font-size: 2.5em;
   text-align: center;
 }
+
+.image-recolor {
+    /* Original image with dark color instead of black */
+    filter: hue-rotate(4deg) saturate(2) brightness(1.2) contrast(1.1);
+    /* Optional: Add grayscale(0.5) if you want to reduce original color intensity */
+}
